@@ -84,6 +84,7 @@ void sieve()
 */
 
 /*
+vector<vector<int>>visited(m, vector<int>(n, 0))
 vector<int>vec ;
 pair<int, int>pr ;
 priority_queue<int, vector<int>, greater<int>> pq ;    // MIN_Heap
